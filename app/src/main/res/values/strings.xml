@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shop</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="featured_fragment"></string>
+    <string name="deals_fragment"></string>
+    <string name="categories_fragment"></string>
+</resources>
